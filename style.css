@@ -280,6 +280,10 @@ html {
     z-index: 9999999
 }
 
+.kari {
+    height: 100%;
+}
+
 .noborder {
     background-color: transparent;
     color: #f7f7f7;
