@@ -271,7 +271,7 @@ html {
 }
 
 .caption2 {
-    position: absolute;
+    position: relative;
     left: 0;
     top: 10%;
     width: 100%;
@@ -337,12 +337,12 @@ h3:before {
     display: inline-block;
     height: 58px;
     padding: 0 22px;
-    border: 2px solid #ffffff;
+    border: 2px solid #000000;
     border-radius: 2px;
     background: none;
     font-size: 16px;
     line-height: 54px;
-    color: #fff;
+    color: #000;
     letter-spacing: .25em;
     text-decoration: none;
     font-weight: 600;
